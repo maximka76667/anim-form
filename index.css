@@ -43,6 +43,7 @@ label {
 }
 
 .input:focus + .input__text {
+  color: #fff;
   font-size: 13px;
   transform: translateY(-60px);
 }
